@@ -1,9 +1,9 @@
 {
-  "name": "@mapbox/mapbox-gl-draw",
+  "name": "mapbox-gl-draw-buttonhoverfix",
   "version": "1.3.0-dev",
   "description": "A drawing component for Mapbox GL JS",
-  "homepage": "https://github.com/mapbox/mapbox-gl-draw",
-  "author": "mapbox",
+  "homepage": "https://github.com/ryanm/mapbox-gl-draw",
+  "author": "ryanm",
   "license": "ISC",
   "main": "index.js",
   "browser": "dist/mapbox-gl-draw.js",
